@@ -24,12 +24,12 @@
       "selectionBackground": "primaryColor",
       "selectionInactiveBackground": "inactive",
       "inactiveBackground": "background",
-      "borderColor": "#0B0A10",
+      "borderColor": "border",
       "underlineColor": "focusColor"
     },
     "Borders": {
-      "color": "#0B0A10",
-      "ContrastBorderColor": "#0B0A10"
+      "color": "border",
+      "ContrastBorderColor": "border"
     },
     "ActionButton": {
       "hoverBackground": "mainColor",
