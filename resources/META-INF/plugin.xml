@@ -32,5 +32,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="RainSong" path="/theme/spring.theme.json"/>
+        <themeProvider id="RainSongSummer" path="/theme/summer.theme.json"/>
     </extensions>
 </idea-plugin>
