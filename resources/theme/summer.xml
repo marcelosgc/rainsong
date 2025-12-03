@@ -3,7 +3,7 @@
         <option name="ADDED_LINES_COLOR" value="8aff80"/>
         <option name="ANNOTATIONS_COLOR" value="282a35"/>
         <option name="CARET_COLOR" value="ffffff"/>
-        <option name="CARET_ROW_COLOR" value="2b2640"/>
+        <option name="CARET_ROW_COLOR" value="342623"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="2E1E1E"/>
         <option name="DELETED_LINES_COLOR" value="ff5554"/>
         <option name="FILESTATUS_ADDED" value="8aff80"/>
@@ -446,7 +446,7 @@
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -454,7 +454,7 @@
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="DELETED_TEXT_ATTRIBUTES">
@@ -825,7 +825,7 @@
         </option>
         <option name="JS.VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="JSON.KEYWORD">
@@ -845,7 +845,7 @@
         </option>
         <option name="JSON.STRING">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="JSON.COLON">
@@ -1030,7 +1030,7 @@
         </option>
         <option name="PROPERTIES.VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="FF6F00"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="PY.ANNOTATION">
@@ -1161,17 +1161,17 @@
         </option>
         <option name="PY.STRING.B">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="PY.STRING.U">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="PY.VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="FFFFE0"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="QL_ATTRIBUTE">
@@ -1323,7 +1323,7 @@
         </option>
         <option name="RUBY_INTERPOLATED_STRING">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="RUBY_INVALID_ESCAPE_SEQUENCE">
@@ -1550,7 +1550,7 @@
         </option>
         <option name="Valid string escape">
             <value>
-                <option name="FOREGROUND" value="FF8A65"/>
+                <option name="FOREGROUND" value="FFE082"/>
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
