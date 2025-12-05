@@ -404,7 +404,7 @@
         </option>
         <option name="DEFAULT_OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="649B00"/>
+                <option name="FOREGROUND" value="FF6F00"/>
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -597,7 +597,7 @@
         </option>
         <option name="GO_OPERATOR">
             <value>
-                <option name="FOREGROUND" value="649B00"/>
+                <option name="FOREGROUND" value="FF6F00"/>
             </value>
         </option>
         <option name="GO_PACKAGE">
@@ -1131,7 +1131,7 @@
         </option>
         <option name="PY.OPERATION_SIGN">
             <value>
-                <option name="FOREGROUND" value="649B00"/>
+                <option name="FOREGROUND" value="FF6F00"/>
             </value>
         </option>
         <option name="PY.PARAMETER">
