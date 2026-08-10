@@ -4,24 +4,26 @@
   "author": "Marcelo Carvalho",
   "editorScheme": "winter.xml",
   "colors": {
-    "primaryRed": "#FF5252",
-    "primaryGreen": "#AEEA00",
-    "primaryBlue": "#84FFFF",
-    "primaryColor": "#37474F",
-    "accentColor": "#CFD8DC",
-    "background": "#1C2A33",
-    "border": "#23343F",
-    "mainColor": "#1C2A33",
-    "focusColor": "#B3E5FC",
-    "inactive": "#220F0F",
-    "foreground": "#EBEFFF",
-    "warning": "#FFC400"
+    "primaryRed": "#A1A6B4",
+    "primaryGreen": "#94C5CC",
+    "primaryBlue": "#B4D2E7",
+    "primaryColor": "#94C5CC",
+    "accentColor": "#B4D2E7",
+    "background": "#202124",
+    "border": "#141518",
+    "mainColor": "#292A2E",
+    "focusColor": "#A1A6B4",
+    "selectionColor": "#3E555B",
+    "inactive": "#35363B",
+    "foreground": "#F8F8F8",
+    "warning": "#B4D2E7"
   },
   "ui": {
     "*": {
       "arc": "5",
       "background": "background",
-      "selectionBackground": "primaryColor",
+      "selectionBackground": "selectionColor",
+      "selectionForeground": "foreground",
       "selectionInactiveBackground": "inactive",
       "inactiveBackground": "background",
       "borderColor": "border",
@@ -68,11 +70,11 @@
         "nonEditableBackground": "mainColor",
         "iconColor": "primaryColor"
       },
-      "selectionBackground": "primaryColor",
+      "selectionBackground": "selectionColor",
       "nonEditableBackground": "mainColor"
     },
     "CompletionPopup": {
-      "selectionBackground": "primaryColor",
+      "selectionBackground": "selectionColor",
       "selectionInactiveBackground": "inactive",
       "matchForeground": "accentColor"
     },
@@ -99,11 +101,11 @@
       "underlineHeight": 2
     },
     "FileColor": {
-      "Blue": "#0B0D0F",
-      "Green": "#212C2A",
-      "Orange": "#2C2122",
-      "Yellow": "#2C2A21",
-      "Rose": "#2A212C",
+      "Blue": "#94C5CC",
+      "Green": "#94C5CC",
+      "Orange": "#A1A6B4",
+      "Yellow": "#B4D2E7",
+      "Rose": "#A1A6B4",
       "Violet": "mainColor"
     },
     "Label": {
@@ -179,7 +181,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#454158",
+        "selectedBackground": "#3C4149",
         "selectedForeground": "foreground"
       }
     },
@@ -213,13 +215,14 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#454158",
-        "underlinedTabInactiveBackground": "#454158"
+        "underlinedTabBackground": "#3C4149",
+        "underlinedTabInactiveBackground": "#3C4149"
       }
     },
-    "Tree": {
-      "modifiedItemForeground": "accentColor",
-      "selectionBackground": "primaryColor",
+      "Tree": {
+        "modifiedItemForeground": "accentColor",
+      "selectionBackground": "selectionColor",
+      "selectionForeground": "foreground",
       "selectionInactiveBackground": "inactive"
     },
     "ValidationTooltip": {
@@ -248,7 +251,7 @@
       }
     },
     "WelcomeScreen": {
-      "separatorColor": "#191b1f",
+      "separatorColor": "#18191C",
       "Projects": {
         "background": "mainColor",
         "selectionBackground": "mainColor",
