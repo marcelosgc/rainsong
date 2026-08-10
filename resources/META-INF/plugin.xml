@@ -25,7 +25,6 @@
     <change-notes><![CDATA[
         Refined all seasonal palettes with cohesive UI and editor colors.<br>
         Improved selection, modified-file, background, and guide contrast.<br>
-        Restored standard red breakpoint visibility.
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
