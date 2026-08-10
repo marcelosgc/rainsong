@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>RainSong</id>
-    <version>2.0</version>
+    <version>2.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
@@ -23,6 +23,8 @@
     <!-- Short summary of new features and buugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
+        Added pastel variants for Summer, Autumn, and Winter themes.<br>
+        Softened guides, separators, margin lines, tear lines, and line numbers.<br>
         Refined all seasonal palettes with cohesive UI and editor colors.<br>
         Improved selection, modified-file, background, and guide contrast.<br>
     ]]></change-notes>
@@ -34,7 +36,10 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="RainSong" path="/theme/spring.theme.json"/>
         <themeProvider id="RainSongSummer" path="/theme/summer.theme.json"/>
+        <themeProvider id="RainSongSummerPastel" path="/theme/summer-pastel.theme.json"/>
         <themeProvider id="RainSongAutumn" path="/theme/autumn.theme.json"/>
+        <themeProvider id="RainSongAutumnPastel" path="/theme/autumn-pastel.theme.json"/>
         <themeProvider id="RainSongWinter" path="/theme/winter.theme.json"/>
+        <themeProvider id="RainSongWinterPastel" path="/theme/winter-pastel.theme.json"/>
     </extensions>
 </idea-plugin>
