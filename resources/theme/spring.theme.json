@@ -4,18 +4,18 @@
   "dark": true,
   "editorScheme": "spring.xml",
   "colors": {
-    "primaryRed": "#FF5252",
-    "primaryGreen": "#AEEA00",
-    "primaryBlue": "#84FFFF",
-    "primaryColor": "#B388FF",
-    "accentColor": "#80d8ff",
-    "background": "#131b26",
-    "border": "#0B0A10",
-    "mainColor": "#131b26",
-    "focusColor": "#334E68",
-    "inactive": "#282A31",
-    "foreground": "#F5FFF5",
-    "warning": "#FFC400"
+    "primaryRed": "#E06C9F",
+    "primaryGreen": "#B5BFA1",
+    "primaryBlue": "#6E9887",
+    "primaryColor": "#E06C9F",
+    "accentColor": "#EDBFB7",
+    "background": "#18211E",
+    "border": "#0F1714",
+    "mainColor": "#202B26",
+    "focusColor": "#B5BFA1",
+    "inactive": "#2C3832",
+    "foreground": "#F8F3F4",
+    "warning": "#EDBFB7"
   },
   "ui": {
     "*": {
@@ -99,11 +99,11 @@
       "underlineHeight": 2
     },
     "FileColor": {
-      "Blue": "#0B0D0F",
-      "Green": "#212C2A",
-      "Orange": "#2C2122",
-      "Yellow": "#2C2A21",
-      "Rose": "#2A212C",
+      "Blue": "#6E9887",
+      "Green": "#B5BFA1",
+      "Orange": "#E06C9F",
+      "Yellow": "#EDBFB7",
+      "Rose": "#4A2638",
       "Violet": "mainColor"
     },
     "Label": {
@@ -179,7 +179,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#454158",
+        "selectedBackground": "#4A2638",
         "selectedForeground": "foreground"
       }
     },
@@ -213,8 +213,8 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#454158",
-        "underlinedTabInactiveBackground": "#454158"
+        "underlinedTabBackground": "#4A2638",
+        "underlinedTabInactiveBackground": "#4A2638"
       }
     },
     "Tree": {
@@ -248,7 +248,7 @@
       }
     },
     "WelcomeScreen": {
-      "separatorColor": "#191b1f",
+      "separatorColor": "#16201B",
       "Projects": {
         "background": "mainColor",
         "selectionBackground": "mainColor",
