@@ -4,18 +4,18 @@
   "author": "Marcelo Carvalho",
   "editorScheme": "autumn.xml",
   "colors": {
-    "primaryRed": "#E53935",
-    "primaryGreen": "#AEEA00",
-    "primaryBlue": "#84FFFF",
-    "primaryColor": "#BF360C",
-    "accentColor": "#A1887F",
-    "background": "#262626",
-    "border": "#171717",
-    "mainColor": "#262626",
-    "focusColor": "#8BC34A",
-    "inactive": "#220F0F",
-    "foreground": "#F0F0F0",
-    "warning": "#FFB300"
+    "primaryRed": "#8F250C",
+    "primaryGreen": "#CA5310",
+    "primaryBlue": "#691E06",
+    "primaryColor": "#CA5310",
+    "accentColor": "#BBB867",
+    "background": "#242221",
+    "border": "#161515",
+    "mainColor": "#2B2927",
+    "focusColor": "#8F250C",
+    "inactive": "#3A2A24",
+    "foreground": "#F8F0E8",
+    "warning": "#BBB867"
   },
   "ui": {
     "*": {
@@ -99,11 +99,11 @@
       "underlineHeight": 2
     },
     "FileColor": {
-      "Blue": "#0B0D0F",
-      "Green": "#212C2A",
-      "Orange": "#2C2122",
-      "Yellow": "#2C2A21",
-      "Rose": "#2A212C",
+      "Blue": "#691E06",
+      "Green": "#CA5310",
+      "Orange": "#BBB867",
+      "Yellow": "#BBB867",
+      "Rose": "#8F250C",
       "Violet": "mainColor"
     },
     "Label": {
@@ -179,7 +179,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#454158",
+        "selectedBackground": "#4A3B32",
         "selectedForeground": "foreground"
       }
     },
@@ -213,8 +213,8 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#454158",
-        "underlinedTabInactiveBackground": "#454158"
+        "underlinedTabBackground": "#4A3B32",
+        "underlinedTabInactiveBackground": "#4A3B32"
       }
     },
     "Tree": {
@@ -248,7 +248,7 @@
       }
     },
     "WelcomeScreen": {
-      "separatorColor": "#191b1f",
+      "separatorColor": "#1D1B1A",
       "Projects": {
         "background": "mainColor",
         "selectionBackground": "mainColor",
