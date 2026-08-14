@@ -5,17 +5,17 @@
   "editorScheme": "autumn-pastel.xml",
   "colors": {
     "primaryRed": "#B67161",
-    "primaryGreen": "#DD8F64",
-    "primaryBlue": "#9E6D5D",
-    "primaryColor": "#DD8F64",
-    "accentColor": "#D3D19C",
+    "primaryGreen": "#C68258",
+    "primaryBlue": "#8E6457",
+    "primaryColor": "#B97856",
+    "accentColor": "#B8AE72",
     "background": "#242221",
     "border": "#161515",
     "mainColor": "#2B2927",
-    "focusColor": "#B67161",
+    "focusColor": "#AA6C5E",
     "inactive": "#3A2A24",
     "foreground": "#FAF5F0",
-    "warning": "#D3D19C"
+    "warning": "#B8AE72"
   },
   "ui": {
     "*": {
@@ -179,7 +179,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#89807A",
+        "selectedBackground": "#6E645E",
         "selectedForeground": "foreground"
       }
     },
@@ -213,8 +213,8 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#89807A",
-        "underlinedTabInactiveBackground": "#89807A"
+        "underlinedTabBackground": "#6E645E",
+        "underlinedTabInactiveBackground": "#6E645E"
       }
     },
     "Tree": {

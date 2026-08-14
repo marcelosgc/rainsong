@@ -4,19 +4,19 @@
   "author": "Marcelo Carvalho",
   "editorScheme": "winter-pastel.xml",
   "colors": {
-    "primaryRed": "#C2C5CE",
-    "primaryGreen": "#B9D9DE",
-    "primaryBlue": "#CEE2EF",
-    "primaryColor": "#B9D9DE",
-    "accentColor": "#CEE2EF",
+    "primaryRed": "#A9AFBA",
+    "primaryGreen": "#86AAB0",
+    "primaryBlue": "#7E9AAA",
+    "primaryColor": "#7A97A0",
+    "accentColor": "#9EBBC9",
     "background": "#202124",
     "border": "#141518",
     "mainColor": "#292A2E",
-    "focusColor": "#C2C5CE",
-    "selectionColor": "#829094",
+    "focusColor": "#A9AFBA",
+    "selectionColor": "#6E8086",
     "inactive": "#35363B",
     "foreground": "#FAFAFA",
-    "warning": "#CEE2EF"
+    "warning": "#9EBBC9"
   },
   "ui": {
     "*": {
@@ -181,7 +181,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#808489",
+        "selectedBackground": "#676C72",
         "selectedForeground": "foreground"
       }
     },
@@ -215,8 +215,8 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#808489",
-        "underlinedTabInactiveBackground": "#808489"
+        "underlinedTabBackground": "#676C72",
+        "underlinedTabInactiveBackground": "#676C72"
       }
     },
       "Tree": {

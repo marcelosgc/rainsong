@@ -7,15 +7,15 @@
     "primaryRed": "#BD5B6D",
     "primaryGreen": "#638B95",
     "primaryBlue": "#638B95",
-    "primaryColor": "#ED9A66",
-    "accentColor": "#FCB471",
+    "primaryColor": "#C97F52",
+    "accentColor": "#D78E57",
     "background": "#242326",
     "border": "#17161A",
     "mainColor": "#2B2A2D",
-    "focusColor": "#FCB471",
+    "focusColor": "#D78E57",
     "inactive": "#3A3438",
     "foreground": "#FAFAFA",
-    "warning": "#FCB471"
+    "warning": "#D78E57"
   },
   "ui": {
     "*": {
@@ -179,7 +179,7 @@
         "background": "mainColor"
       },
       "Tab": {
-        "selectedBackground": "#89757C",
+        "selectedBackground": "#705F65",
         "selectedForeground": "foreground"
       }
     },
@@ -213,8 +213,8 @@
       "HeaderTab": {
         "underlineColor": "focusColor",
         "underlineHeight": 2,
-        "underlinedTabBackground": "#89757C",
-        "underlinedTabInactiveBackground": "#89757C"
+        "underlinedTabBackground": "#705F65",
+        "underlinedTabInactiveBackground": "#705F65"
       }
     },
     "Tree": {
