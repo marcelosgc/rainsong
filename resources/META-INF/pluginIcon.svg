@@ -11,7 +11,7 @@
     <!-- Seasonal accents: spring, summer, autumn, winter. -->
     <path d="M318 306 Q374 224 464 188" stroke="#B98296" stroke-width="18"/>
     <path d="M560 188 Q650 224 706 306" stroke="#CC9870" stroke-width="18"/>
-    <path d="M706 718 Q650 800 560 836" stroke="#B1A976" stroke-width="18"/>
+    <path d="M706 718 Q650 800 560 836" stroke="#D1A04A" stroke-width="18"/>
     <path d="M464 836 Q374 800 318 718" stroke="#9BB8C8" stroke-width="18"/>
   </g>
 

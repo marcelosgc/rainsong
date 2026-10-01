@@ -16,14 +16,21 @@
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
-    <description><![CDATA[This theme is inspired by the iconic song from Led Zeppelin "The Rain Song". The song is about the seasons like Spring, Summer, Autumn (not mentioned) and Winter connected with emotions.<br> It's a poetic masterpiece for those who love the old and gold Rock and Roll<br>
-    I let here this theme as a tribute to my father, who taught me and my brother in how to be a better person and good musics.
+    <description><![CDATA[The Rain Song is a collection of four dark JetBrains themes inspired by Led Zeppelin's "The Rain Song" and its emotional seasons: spring, summer, autumn and winter.<br><br>
+    Each theme combines low-glare neutral surfaces, readable contrast, restrained seasonal accents and clear project-status colors for comfortable long coding sessions.<br><br>
+    The collection includes Springtime of My Loving Island, Summer of My Smiles Island, Autumn Solo Island and Coldness of My Winter Island.<br><br>
+    This project is a tribute to my father, who taught me and my brother how to be better people and appreciate good music.
     ]]></description>
 
     <!-- Short summary of new features and buugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        Updated colors contrast
+        <ul>
+            <li>Refined seasonal palettes with neutral, low-glare UI backgrounds.</li>
+            <li>Darkened editor surfaces and unified gutter, caret-row and selection colors.</li>
+            <li>Improved readability of ignored and out-of-context project items.</li>
+            <li>Refreshed the plugin icon with a guitar pick and rain-drop motif.</li>
+        </ul>
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
