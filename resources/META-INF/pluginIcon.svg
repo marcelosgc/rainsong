@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
   <title id="title">The Rain Song</title>
-  <desc id="desc">A transparent icon combining rain, rock music, and four seasonal colors.</desc>
-  <defs>
-    <linearGradient id="spring" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E06C9F"/>
-      <stop offset="1" stop-color="#6E9887"/>
-    </linearGradient>
-    <linearGradient id="summer" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#5F0F40"/>
-      <stop offset="1" stop-color="#FB8B24"/>
-    </linearGradient>
-    <linearGradient id="autumn" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#BBB867"/>
-      <stop offset="1" stop-color="#8F250C"/>
-    </linearGradient>
-    <linearGradient id="winter" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#94C5CC"/>
-      <stop offset="1" stop-color="#B4D2E7"/>
-    </linearGradient>
-  </defs>
+  <desc id="desc">A guitar pick containing a rain drop and four muted seasonal accents.</desc>
+
+  <!-- Guitar pick silhouette. -->
+  <path d="M512 116 C618 150 738 190 806 284 Q830 320 808 370 L638 744 Q602 824 512 912 Q422 824 386 744 L216 370 Q194 320 218 284 C286 190 406 150 512 116Z"
+        fill="#1C1E22" stroke="#AEB5BE" stroke-width="18" stroke-linejoin="round"/>
 
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M512 118 A394 394 0 0 1 906 512" stroke="url(#spring)" stroke-width="28"/>
-    <path d="M906 512 A394 394 0 0 1 512 906" stroke="url(#summer)" stroke-width="28"/>
-    <path d="M512 906 A394 394 0 0 1 118 512" stroke="url(#autumn)" stroke-width="28"/>
-    <path d="M118 512 A394 394 0 0 1 512 118" stroke="url(#winter)" stroke-width="28"/>
+    <!-- Seasonal accents: spring, summer, autumn, winter. -->
+    <path d="M318 306 Q374 224 464 188" stroke="#B98296" stroke-width="18"/>
+    <path d="M560 188 Q650 224 706 306" stroke="#CC9870" stroke-width="18"/>
+    <path d="M706 718 Q650 800 560 836" stroke="#B1A976" stroke-width="18"/>
+    <path d="M464 836 Q374 800 318 718" stroke="#9BB8C8" stroke-width="18"/>
   </g>
 
-  <g transform="translate(512 438)">
-    <path d="M-220 42 C-220-10-180-52-128-52 C-106-104-35-126 12-91 C42-132 118-121 139-66 C192-70 230-31 230 21 C230 70 192 101 142 101 H-155 C-194 101-220 77-220 42Z" fill="#202124" stroke="#F8F8F8" stroke-width="14"/>
-    <path d="M-112 132 C-101 157-101 178-112 194 C-123 178-123 157-112 132Z" fill="url(#spring)" stroke="#F8F8F8" stroke-width="8"/>
-    <path d="M-38 132 C-27 157-27 178-38 194 C-49 178-49 157-38 132Z" fill="url(#summer)" stroke="#F8F8F8" stroke-width="8"/>
-    <path d="M38 132 C49 157 49 178 38 194 C27 178 27 157 38 132Z" fill="url(#autumn)" stroke="#F8F8F8" stroke-width="8"/>
-    <path d="M112 132 C123 157 123 178 112 194 C101 178 101 157 112 132Z" fill="url(#winter)" stroke="#F8F8F8" stroke-width="8"/>
-  </g>
+  <!-- Rain drop / negative-space center. -->
+  <path d="M512 300 C484 338 454 372 454 412 C454 454 480 480 512 480 C544 480 570 454 570 412 C570 372 540 338 512 300Z"
+        fill="#3A4048" stroke="#DADBDC" stroke-width="12" stroke-linejoin="round"/>
 
-  <g transform="translate(512 730)" fill="#202124" stroke="#F8F8F8" stroke-width="12" stroke-linejoin="round">
-    <path d="M0-104 C52-74 83-36 83 10 C83 72 48 114 0 160 C-48 114-83 72-83 10 C-83-36-52-74 0-104Z"/>
-    <path d="M-27-43 V91 M-9-57 V109 M9-57 V109 M27-43 V91" fill="none" stroke="#BBB867" stroke-width="7"/>
-    <circle cx="0" cy="20" r="19" fill="none" stroke="#FB8B24" stroke-width="8"/>
+  <!-- Small strings reinforce the musical reference without adding clutter. -->
+  <g stroke="#69727B" stroke-width="10">
+    <path d="M450 560 V760"/>
+    <path d="M490 570 V790"/>
+    <path d="M534 570 V790"/>
+    <path d="M574 560 V760"/>
   </g>
 </svg>

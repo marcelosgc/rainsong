@@ -1,10 +1,10 @@
 <scheme name="Autumn Solo Island" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="CA5310"/>
-        <option name="ANNOTATIONS_COLOR" value="242221"/>
+        <option name="ANNOTATIONS_COLOR" value="1C1E22"/>
         <option name="CARET_COLOR" value="F8F0E8"/>
-        <option name="CARET_ROW_COLOR" value="2B2927"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="242221"/>
+        <option name="CARET_ROW_COLOR" value="25282D"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="1C1E22"/>
         <option name="DELETED_LINES_COLOR" value="8F250C"/>
         <option name="FILESTATUS_ADDED" value="CA5310"/>
         <option name="FILESTATUS_DELETED" value="CA5310"/>
@@ -26,14 +26,14 @@
         <option name="FILESTATUS_addedOutside" value="CA5310"/>
         <option name="FILESTATUS_changelistConflict" value="8F250C"/>
         <option name="FILESTATUS_modifiedOutside" value="CA5310"/>
-        <option name="GUTTER_BACKGROUND" value="242221"/>
+        <option name="GUTTER_BACKGROUND" value="181A1E"/>
         <option name="INDENT_GUIDE" value="4E464C"/>
         <option name="LINE_NUMBERS_COLOR" value="6A6067"/>
         <option name="MODIFIED_LINES_COLOR" value="CA5310"/>
         <option name="RIGHT_MARGIN_COLOR" value="4E464C"/>
         <option name="SELECTED_INDENT_GUIDE" value="5E565D"/>
         <option name="SELECTED_TEARLINE_COLOR" value="5E565D"/>
-        <option name="SELECTION_BACKGROUND" value="4A3B32"/>
+        <option name="SELECTION_BACKGROUND" value="3A4048"/>
         <option name="SEPARATOR_ABOVE_COLOR" value="4E464C"/>
         <option name="SEPARATOR_BELOW_COLOR" value="4E464C"/>
         <option name="TEARLINE_COLOR" value="4E464C"/>
@@ -107,7 +107,7 @@
         <option name="BREADCRUMBS_HOVERED">
             <value>
                 <option name="FOREGROUND" value="CA5310"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
@@ -202,7 +202,7 @@
         </option>
         <option name="CONSOLE_SELECTED_PARAMETER">
             <value>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="CONSOLE_USER_INPUT">
@@ -498,7 +498,7 @@
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="787e9f"/>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="GO_BLOCK_COMMENT" baseAttributes="DEFAULT_BLOCK_COMMENT"/>
@@ -718,7 +718,7 @@
         <option name="HAML_TAG">
             <value>
                 <option name="FOREGROUND" value="F8F0E8"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -764,7 +764,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -867,7 +867,7 @@
         </option>
         <option name="JSP_DIRECTIVE_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="JSP_DIRECTIVE_NAME">
@@ -878,7 +878,7 @@
         <option name="JSP_SCRIPTING_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="F8F0E8"/>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="JUPYTER_CELL_MARKER">
@@ -1308,7 +1308,7 @@
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
                 <option name="FOREGROUND" value="8F250C"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1373,7 +1373,7 @@
         <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER"/>
         <option name="RUBY_REGEXP">
             <value>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="RUBY_SPECIFIC_CALL">
@@ -1490,7 +1490,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="F8F0E8"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1547,7 +1547,7 @@
         <option name="VELOCITY_SCRIPTING_BACKGROUND">
             <value>
                 <option name="FOREGROUND" value="F8F0E8"/>
-                <option name="BACKGROUND" value="2B2927"/>
+                <option name="BACKGROUND" value="25282D"/>
             </value>
         </option>
         <option name="Valid string escape">
@@ -1624,21 +1624,21 @@
         <option name="YAML_SCALAR_LIST">
             <value>
                 <option name="FOREGROUND" value="BBB867"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="YAML_SCALAR_VALUE">
             <value>
                 <option name="FOREGROUND" value="BBB867"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="YAML_TEXT">
             <value>
                 <option name="FOREGROUND" value="CA5310"/>
-                <option name="BACKGROUND" value="242221"/>
+                <option name="BACKGROUND" value="1C1E22"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
