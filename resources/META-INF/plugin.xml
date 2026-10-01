@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>RainSong</id>
-    <version>2.3</version>
+    <version>2.4</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
@@ -23,7 +23,7 @@
     <!-- Short summary of new features and buugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-        Added island themes
+        Updated colors contrast
     ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.

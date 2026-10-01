@@ -4,18 +4,18 @@
   "dark": true,
   "editorScheme": "autumn-island.xml",
   "colors": {
-    "primaryRed": "#8F250C",
-    "primaryGreen": "#CA5310",
-    "primaryBlue": "#691E06",
-    "primaryColor": "#CA5310",
-    "accentColor": "#BBB867",
-    "background": "#242221",
-    "border": "#161515",
-    "mainColor": "#2B2927",
-    "focusColor": "#8F250C",
-    "inactive": "#3A2A24",
-    "foreground": "#F8F0E8",
-    "warning": "#BBB867",
+    "primaryRed": "#C08073",
+    "primaryGreen": "#B28D70",
+    "primaryBlue": "#80665C",
+    "primaryColor": "#765746",
+    "accentColor": "#B1A976",
+    "background": "#2A2928",
+    "border": "#222122",
+    "mainColor": "#33312F",
+    "focusColor": "#C08073",
+    "inactive": "#433C38",
+    "foreground": "#DAD6D1",
+    "warning": "#B1A976",
     "transparent": "#00000000"
   },
   "ui": {
@@ -128,11 +128,11 @@
       "inactiveUnderlineColor": "focusColor"
     },
     "FileColor": {
-      "Blue": "#691E06",
-      "Green": "#CA5310",
-      "Orange": "#BBB867",
-      "Yellow": "#BBB867",
-      "Rose": "#8F250C",
+      "Blue": "#4a5f64",
+      "Green": "#527550",
+      "Orange": "#795946",
+      "Yellow": "#606046",
+      "Rose": "#604354",
       "Violet": "mainColor"
     },
     "Label": {

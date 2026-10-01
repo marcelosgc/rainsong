@@ -4,18 +4,18 @@
   "dark": true,
   "editorScheme": "spring-island.xml",
   "colors": {
-    "primaryRed": "#E06C9F",
-    "primaryGreen": "#B5BFA1",
-    "primaryBlue": "#6E9887",
-    "primaryColor": "#E06C9F",
-    "accentColor": "#EDBFB7",
-    "background": "#18211E",
-    "border": "#0F1714",
-    "mainColor": "#202B26",
-    "focusColor": "#B5BFA1",
-    "inactive": "#2C3832",
-    "foreground": "#F8F3F4",
-    "warning": "#EDBFB7",
+    "primaryRed": "#B98296",
+    "primaryGreen": "#A0B091",
+    "primaryBlue": "#6F9385",
+    "primaryColor": "#754A5B",
+    "accentColor": "#AAB99B",
+    "background": "#222B28",
+    "border": "#19211E",
+    "mainColor": "#2C3731",
+    "focusColor": "#AAB99B",
+    "inactive": "#3A4841",
+    "foreground": "#DAD7D5",
+    "warning": "#AAB99B",
     "transparent": "#00000000"
   },
   "ui": {
@@ -128,11 +128,11 @@
       "inactiveUnderlineColor": "focusColor"
     },
     "FileColor": {
-      "Blue": "#6E9887",
-      "Green": "#B5BFA1",
-      "Orange": "#E06C9F",
-      "Yellow": "#EDBFB7",
-      "Rose": "#4A2638",
+      "Blue": "#4a5f64",
+      "Green": "#527550",
+      "Orange": "#795946",
+      "Yellow": "#606046",
+      "Rose": "#604354",
       "Violet": "mainColor"
     },
     "Label": {

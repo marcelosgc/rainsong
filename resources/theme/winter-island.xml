@@ -10,11 +10,11 @@
         <option name="FILESTATUS_DELETED" value="7FCAD4"/>
         <option name="FILESTATUS_HIJACKED" value="B8D9F2"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7FCAD4"/>
-        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="B8D9F2"/>
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="AEB5BE"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="A5ACBF"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="A5ACBF"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="A5ACBF"/>
-        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="B8D9F2"/>
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="AEB5BE"/>
         <option name="FILESTATUS_MERGED" value="7FCAD4"/>
         <option name="FILESTATUS_MODIFIED" value="B8D9F2"/>
         <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="B8D9F2"/>
@@ -1649,4 +1649,3 @@
         </option>
     </attributes>
 </scheme>
-
