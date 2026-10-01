@@ -31,19 +31,9 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="RainSong" path="/theme/spring.theme.json"/>
         <themeProvider id="RainSongIsland" path="/theme/spring-island.theme.json"/>
-        <themeProvider id="RainSongSummer" path="/theme/summer.theme.json"/>
         <themeProvider id="RainSongSummerIsland" path="/theme/summer-island.theme.json"/>
-        <themeProvider id="RainSongSummerPastel" path="/theme/summer-pastel.theme.json"/>
-        <themeProvider id="RainSongSummerPastelIsland" path="/theme/summer-pastel-island.theme.json"/>
-        <themeProvider id="RainSongAutumn" path="/theme/autumn.theme.json"/>
         <themeProvider id="RainSongAutumnIsland" path="/theme/autumn-island.theme.json"/>
-        <themeProvider id="RainSongAutumnPastel" path="/theme/autumn-pastel.theme.json"/>
-        <themeProvider id="RainSongAutumnPastelIsland" path="/theme/autumn-pastel-island.theme.json"/>
-        <themeProvider id="RainSongWinter" path="/theme/winter.theme.json"/>
         <themeProvider id="RainSongWinterIsland" path="/theme/winter-island.theme.json"/>
-        <themeProvider id="RainSongWinterPastel" path="/theme/winter-pastel.theme.json"/>
-        <themeProvider id="RainSongWinterPastelIsland" path="/theme/winter-pastel-island.theme.json"/>
     </extensions>
 </idea-plugin>
